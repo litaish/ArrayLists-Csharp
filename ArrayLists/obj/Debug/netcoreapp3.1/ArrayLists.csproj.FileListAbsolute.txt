@@ -1,0 +1,13 @@
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.exe
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.deps.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.runtimeconfig.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.runtimeconfig.dev.json
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.dll
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.pdb
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.csprojAssemblyReference.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.AssemblyInfo.cs
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.dll
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.pdb
+C:\Users\Lita\Documents\School\5_SEM\ALGORITMI_5SEM\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.genruntimeconfig.cache
